@@ -17,6 +17,20 @@ Please refer to the official repo if there any issues: https://github.com/attard
 
 ![categories Logo](/images/Distribution.png)
 
-Now we have 27 categories and relevant 10k articles for each category. It becomes a classification problem. However, I initially used topic modeling (without categories/labels) and have run multiple supervised algorithms with different types of word embeddings.
+Now we have 27 categories and relevant 10k articles for each category. It becomes a classification problem. However, I used topic modeling (without categories/labels) and have run multiple supervised algorithms with different types of word embeddings.
 
 The code is in Jupiter notebooks (Location: notebook folder).
+
+It is difficult to come up by a high accuracy model which classifies all 27 labels.  
+
+1. Base Supervised Wiki Model (For all 27 categories) - Model Accuracy is about 50 % (Low)
+    - Multiniomial Naive Bayes
+    
+2. Multiple Supervised Models with different word embeddings (for randomly selected 10 categories of 27 categories)
+    - Multinomial Naive Bayes
+    - Support Vector Machine
+    - Logistic Regression
+    - Logistic Regression + Word2Vec 
+    - Deep Neural Network with Cross Entropy Loss and Adam Optimizer
+    
+3. Topic Modelling
