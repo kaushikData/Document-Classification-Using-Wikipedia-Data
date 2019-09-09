@@ -10,7 +10,7 @@ Run preprocessing.py to use wiki API to access the wiki tree. Wiki tree is nothi
 
 The final step in preprocessing requires cleaning wiki dump files to plain text. The last line in preprocessing.py runs wikiextractor.py.
 
-Step2 is a mirror repo for the script by Giuseppe Attardi and contains history before the official repo started.
+Step2 is a mirror repo for the script by Giuseppe Attardi.
 Please refer to the official repo if there any issues: https://github.com/attardi/wikiextractor
 
 ### Step3:
