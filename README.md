@@ -5,7 +5,7 @@
 Note: Step1 and Step2 involve Data Collection and Data Preprocessing and they take a lot of time to process. Skip Step1 and Step2, if you want to run results immediately.
 
 ### Get Data: https://drive.google.com/drive/folders/1VIJYdcrYwBsicdyf3pbUIzSxjJFpwSGS?usp=sharing 
-The data size is huge and please access the preprocessed wiki data from the google drive 
+The data is huge and please access the preprocessed wiki data from the google drive 
 
 ### Step 1:
 
