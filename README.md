@@ -45,3 +45,4 @@ Final model gave below result for IMDB profile of Actor Jackie Chan.
 ![categories Logo](/images/JC.png)
 
 
+The preprocessing.py code uses attardi/wikiextractor (https://github.com/attardi/wikiextractor)
