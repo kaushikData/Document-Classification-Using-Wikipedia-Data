@@ -43,3 +43,5 @@ It is difficult to come up by a high accuracy model which classifies all 27 labe
 Final model gave below result for IMDB profile of Actor Jackie Chan.
 
 ![categories Logo](/images/JC.png)
+
+
