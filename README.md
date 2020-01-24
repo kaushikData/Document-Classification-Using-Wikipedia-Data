@@ -40,7 +40,7 @@ It is difficult to come up by a high accuracy model which classifies all 27 labe
     
 3. Topic Modelling
 
-Final model gave below result for IMDB profile of Actor Jackie Chan.
+Final model gave below result for IMDB mini biography passage of Actor Jackie Chan.
 
 ![categories Logo](/images/JC.png)
 
